@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Dados de estoque do supermercado, agora incluindo produtos de beleza
+# Dados de estoque do supermercado
 dados_estoque = {
     'Produto': ['Arroz', 'Feijão', 'Macarrão', 'Açúcar', 'Óleo', 'Leite', 'Pão', 'Café', 'Sabão', 'Detergente',
                 'Shampoo', 'Condicionador', 'Sabonete', 'Creme Hidratante'],
